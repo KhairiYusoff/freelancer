@@ -32,7 +32,7 @@ export function Auth() {
     <div className="min-h-screen bg-gradient-to-br from-blue-500 to-purple-600 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <div className="text-center">
-          <h1 className="text-4xl font-bold text-white mb-2">Freelance PM</h1>
+          <h1 className="text-4xl font-bold text-white mb-2">Freelancer</h1>
           <h2 className="text-2xl font-semibold text-white/90">
             {mode === 'signin' ? 'Welcome Back!' : 'Create Account'}
           </h2>
